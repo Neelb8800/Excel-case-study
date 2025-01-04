@@ -2,7 +2,9 @@ E-commerce Sales Analysis (Power BI)
 
 ![Ecom logo](worldwide-ecommerce-sales-2020.jpg)
 
+
 Overview
+
 This project analyzes e-commerce sales data to uncover insights into category distribution, customer retention, and revenue optimization. The analysis was conducted using Power BI to create dynamic dashboards that support data-driven decision-making.
 
 Objectives
